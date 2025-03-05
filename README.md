@@ -19,24 +19,24 @@ This project is my personal solution to transform complex biometric information 
 1. Clone the Repository:
 
 ```
-	git clone https://github.com/bernardmuller/pulse.git
-	cd your-repo
+git clone https://github.com/bernardmuller/pulse.git
+cd your-repo
 ```
 
 2. Install Rust (if not installed):
 
 ```
-	curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
 3. Run the CLI App:
 
 ```
-	cargo run
+cargo run
 ```
 
 ## Roadmap
 
-Phase 1: CLI Prototype (Data ingestion, processing, AI insights)
-Phase 2: Web API (Rust-based backend)
-Phase 3: Cross-platform app (React with Tauri or Flutter)
+- Phase 1: CLI Prototype (Data ingestion, processing, AI insights)
+- Phase 2: Web API (Rust-based backend)
+- Phase 3: Cross-platform app (React with Tauri or Flutter)
